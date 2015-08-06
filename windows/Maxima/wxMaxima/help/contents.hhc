@@ -1,0 +1,161 @@
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC1">
+   <param name="Name" value="Introduction to wxMaxima"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC2">
+   <param name="Name" value="Maxima and wxMaxima"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC3">
+   <param name="Name" value="Maxima"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC4">
+   <param name="Name" value="wxMaxima"></object>
+</ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC5">
+   <param name="Name" value="Worksheet basics"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC6">
+   <param name="Name" value="The worksheet approach"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC7">
+   <param name="Name" value="Cells"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC8">
+   <param name="Name" value="Horizontal and vertical cursors"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC9">
+   <param name="Name" value="Command autocompletion"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC10">
+   <param name="Name" value="Greek characters"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC11">
+   <param name="Name" value="Side Panes"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC12">
+   <param name="Name" value="Markdown support"></object>
+</ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC13">
+   <param name="Name" value="File Formats"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC14">
+   <param name="Name" value=".mac"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC15">
+   <param name="Name" value=".wxm"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC16">
+   <param name="Name" value=".wxmx"></object>
+</ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC17">
+   <param name="Name" value="Configuration options"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC18">
+   <param name="Name" value="Default animation framerate"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC19">
+   <param name="Name" value="Default plot size for new maxima sessions"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC20">
+   <param name="Name" value="Match parenthesis in text controls"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_1.html#SEC21">
+   <param name="Name" value="Autosave interval"></object>
+</ul>
+</ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC22">
+   <param name="Name" value="Extensions to maxima"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC23">
+   <param name="Name" value="Plotting"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC24">
+   <param name="Name" value="Embedding a plot into the work sheet"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC25">
+   <param name="Name" value="Making embedded plots bigger or smaller"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC26">
+   <param name="Name" value="Better quality plots"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC27">
+   <param name="Name" value="Embedding animations into the spreadsheet"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC28">
+   <param name="Name" value="Opening multiple plot windows contemporarily"></object>
+</ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC29">
+   <param name="Name" value="Embedding graphics"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC30">
+   <param name="Name" value="wxmaximarc"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC31">
+   <param name="Name" value="Special variables"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC32">
+   <param name="Name" value="Pretty-printing 2D output"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_2.html#SEC33">
+   <param name="Name" value="Bug reporting"></object>
+</ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC34">
+   <param name="Name" value="Troubleshooting"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC35">
+   <param name="Name" value="Cannot connect to Maxima"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC36">
+   <param name="Name" value="How to save data from a broken .wxmx file"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC37">
+   <param name="Name" value="wxMaxima waits forever for data from maxima"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC38">
+   <param name="Name" value="Outputting animations doesn't work"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC39">
+   <param name="Name" value="Plotting only shows an closed empty envelope with an error message"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC40">
+   <param name="Name" value="Plotting an animation results in &quot;error: undefined variable&quot;"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC41">
+   <param name="Name" value="I lost a cell contents and undo doesn't remember"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC42">
+   <param name="Name" value="wxMaxima starts up with the message &quot;Maxima process Terminated.&quot;"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC43">
+   <param name="Name" value="File I/O from maxima doesn't work on Windows"></object>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_3.html#SEC44">
+   <param name="Name" value="Input sometimes is sluggish/ignoring keys on Ubuntu"></object>
+</ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_4.html#SEC45">
+   <param name="Name" value="FAQ"></object>
+<ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_4.html#SEC46">
+   <param name="Name" value="Is there a way to make more text fit on a pdfLaTeX page?"></object>
+</ul>
+<li><object type="text/sitemap">
+   <param name="Local" value="wxmaxima_5.html#SEC47">
+   <param name="Name" value="Command-line arguments"></object>
+</ul>
